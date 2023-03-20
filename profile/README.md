@@ -1,4 +1,4 @@
-The [Internet of Water](https://internetofwater.org) is a multi-stakeholder project to create an ecosystem of water data providers that publish their data in a FAIR (Findable, Accessible, Interoperable, and Reusable) manner. The Internet of Water includes a suite of open source software development and data curation activities to assist in the publication and indexing of water data. These activities are managed by the [Center for Geospatial Solutions at the Lincoln Institute of Land Policy](https://cgs.earth)
+The [Internet of Water](https://internetofwater.org) is a multi-stakeholder project to create an ecosystem of water data providers that publish their data in a FAIR (Findable, Accessible, Interoperable, and Reusable) manner. The Internet of Water includes a suite of open source software development and data curation activities to assist in the publication and indexing of water data. These activities are managed by the [Center for Geospatial Solutions at the Lincoln Institute of Land Policy](http://cgs.earth)
 
 Open Source Projects that we manage on GitHub include:
 
